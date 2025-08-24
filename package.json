@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s02tj9e",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~0gr",
+  "name": "Tweeter",
+  "description": "",
   "scripts": {
     "start": "vite",
     "dev": "vite",
